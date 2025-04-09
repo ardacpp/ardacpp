@@ -37,10 +37,6 @@
 
 ###
 
-<img align="right" height="131" src="https://media.giphy.com/media/vz47JNx5uGbFS/giphy.gif?cid=790b761126zxdsl73ps3mg5weqkrd8srln4k9visg60aqeyj&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
-
-###
-
 <h2 align="left">📝 ABOUT ME</h2>
 
 ###
@@ -50,5 +46,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ard0x/ard0x/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="131" src="https://media.giphy.com/media/vz47JNx5uGbFS/giphy.gif?cid=790b761126zxdsl73ps3mg5weqkrd8srln4k9visg60aqeyj&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+</div>
 
 ###
