@@ -1,9 +1,9 @@
-<h1 align="left">█░█░█ █▀▀ █░░ █▀▀ █▀█ █▀▄▀█ █▀▀<br>▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █░▀░█ ██▄</h1>
+<h6 align="left">██╗░░██╗███████╗██╗░░░░░██╗░░░░░░█████╗░  ████████╗██╗░░██╗███████╗██████╗░███████╗██╗<br>██║░░██║██╔════╝██║░░░░░██║░░░░░██╔══██╗  ╚══██╔══╝██║░░██║██╔════╝██╔══██╗██╔════╝██║<br>███████║█████╗░░██║░░░░░██║░░░░░██║░░██║  ░░░██║░░░███████║█████╗░░██████╔╝█████╗░░██║<br>██╔══██║██╔══╝░░██║░░░░░██║░░░░░██║░░██║  ░░░██║░░░██╔══██║██╔══╝░░██╔══██╗██╔══╝░░╚═╝<br>██║░░██║███████╗███████╗███████╗╚█████╔╝  ░░░██║░░░██║░░██║███████╗██║░░██║███████╗██╗<br>╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝╚═╝</h6>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ard0x&radius=20&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=ard0x&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ard0x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -41,16 +41,14 @@
 
 ###
 
+<img align="right" height="129" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e470ysp038xnxnqjqmq7p7boau1h7kw919ptxfw4m81&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+
+###
+
 <p align="left">👋 I'm Arda, a passionate programmer 💻 from Germany 🇩🇪, always learning & experimenting 🚀<br><br>🔭 I’m currently working on improving my skills!<br><br>🤝 I love working on projects together!</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ard0x/ard0x/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="131" src="https://media.giphy.com/media/vz47JNx5uGbFS/giphy.gif?cid=790b761126zxdsl73ps3mg5weqkrd8srln4k9visg60aqeyj&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
-</div>
 
 ###
