@@ -37,11 +37,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY3djlvZjhiMnlxc2V5enozYXJ5bjBxczNjMGphaW9hdzBicHBxeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
-
-###
-
-<h3 align="left">Hello World!!</h3>
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M3ZTlveW9obzFhdWhyNHE1YTc0YTFkNjB6ZHdyeGdyd3NqdnozOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xiweAOXFUKjrPpe/giphy.gif"  />
 
 ###
 
