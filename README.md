@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ard0x&radius=20&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ard0x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
@@ -42,13 +42,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ard0x/ard0x/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Ardavv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ardavv&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
