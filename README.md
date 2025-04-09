@@ -9,6 +9,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47ias46x9dse603dgoflq979lhhgr9taywlff2ybso&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -37,10 +43,14 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M3ZTlveW9obzFhdWhyNHE1YTc0YTFkNjB6ZHdyeGdyd3NqdnozOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xiweAOXFUKjrPpe/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/ard0x/ard0x/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/ard0x/ard0x/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/Ardavv">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ardavv&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
