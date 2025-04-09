@@ -9,8 +9,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47ias46x9dse603dgoflq979lhhgr9taywlff2ybso&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
 ###
