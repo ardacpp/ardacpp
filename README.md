@@ -1,4 +1,4 @@
-<h6 align="left">👀 WELCOME, STRANGER 🔍</h6>
+<h1 align="left">👀 WELCOME, STRANGER 🔍</h1>
 
 ###
 
