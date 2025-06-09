@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ard0x&radius=20&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ard0x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardacpp&radius=20&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardacpp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ard0x/ard0x/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ardacpp/ardacpp/output/snake.svg" alt="Snake animation" />
 
 ###
