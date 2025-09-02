@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">💻 I'm a passionate programmer from germany!<br><br>🔭 I’m currently working on improving my skills!<br><br>🤝 I love working on projects together!<br><br>🚀 Always learning & experimenting!</p>
+<p align="left">💻 I'm from germany!<br><br>🔭 I’m currently working on improving my skills!<br>><br>🚀 Always learning & experimenting!</p>
 
 ###
 
