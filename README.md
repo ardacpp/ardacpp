@@ -7,13 +7,13 @@
 ###
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://linkedin.com/in/arda-soysüren-89404b410/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ardacpp">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:asoysuren91@gmail.com">
     <img src="https://img.shields.io/badge/Email-2D2D2D?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
 </p>
