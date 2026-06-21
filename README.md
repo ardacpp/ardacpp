@@ -1,54 +1,86 @@
-<h1 align="left">👀 HELLO, STRANGER 🔍</h1>
+<h1 align="center">Arda</h1>
+<p align="center">
+  <b>Software Engineer · Full-Stack Developer</b><br>
+  <sub>Based in Germany 🇩🇪 — building local-first AI tools & modern SaaS.</sub>
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardacpp&radius=20&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardacpp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ardacpp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-2D2D2D?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
+  </a>
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=arda.cpp&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+## 🧑‍💻 About Me
+
+I'm a software engineer focused on building things end to end — from backend logic and data layers to clean, usable frontends. Lately I've been deep in **local-first AI** and **full-stack product development**, shipping real projects rather than toy demos.
+
+- 🔭 Currently building **KEPLER** (local AI assistant) and **Noise OS** (SaaS business platform)
+- 🛠️ Comfortable across the stack — Python, TypeScript, C++, and the tooling around them
+- 📈 Always learning, always experimenting
+- 💬 Open to connecting about engineering roles and collaboration
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,lua,nextjs,react,nodejs,postgres,tailwind,html,css,git,vscode&theme=dark&perline=7" alt="Tech stack" />
+</p>
 
 ###
 
-<h2 align="left">📝 ABOUT ME</h2>
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ KEPLER</h3>
+      <p>A <b>local-first AI assistant</b> — runs entirely on your machine with no cloud dependency. Tool execution, streaming output, and full transparency into the model's reasoning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Qwen3-FF6A00?style=flat-square&logoColor=white" alt="Qwen3" />
+      </p>
+      <a href="https://github.com/ardacpp/KEPLER">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎛️ Noise OS</h3>
+      <p>A <b>modular business operating system</b> for SMBs — a SaaS platform with auth, internationalization, and a typed data layer built for real-world operations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/ardacpp/noise-os">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
-<img align="right" height="129" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e470ysp038xnxnqjqmq7p7boau1h7kw919ptxfw4m81&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardacpp&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardacpp&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</p>
 
-<p align="left">💻 I'm from germany!<br><br>🔭 I’m currently working on improving my skills!<br><br>🚀 Always learning & experimenting!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/ardacpp/ardacpp/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardacpp&theme=react-dark&hide_border=true&hide_title=true&area=true&radius=8" alt="Activity graph" />
+</p>
 
 ###
